@@ -1,0 +1,19 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, one single glossy 3D white clipboard checklist tablet with a single mint-green check mark, centered, radial gradient background from sky blue #4A90E2 to mint #7FE8C5, crisp, soft shadows, clean minimal Scandinavian style, no text"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app splash background, dark steel blue to charcoal gradient, subtle soft blue glow at top center, calm minimal Scandinavian, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app background, very light off-white with soft mint and sky-blue blurred blobs, airy minimal Scandinavian, low contrast for UI overlay, no text, no UI elements"
+    }
+  ]
+}
